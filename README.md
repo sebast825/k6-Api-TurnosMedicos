@@ -17,6 +17,7 @@ k6-tests/
 ## `config/options.js`
 Contiene la configuración global de k6:
 
+- Podés seleccionar distintas configuraciones de carga según el tipo de prueba que quieras ejecutar
 - Stages (usuarios virtuales y duración)
 - Umbrales de rendimiento (`thresholds`)
 - Otras opciones como `insecureSkipTLSVerify`
