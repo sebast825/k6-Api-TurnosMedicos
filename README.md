@@ -1,15 +1,11 @@
 ```
-k6-tests/
-├─ config/
-│   └─ options.js
-├─ endpoints/
-│   └─ endpoints.js
-├─ utils/
-│   └─ checks.js
-├─ scenarios/
-│   ├─ getTurnosDisponibles.js
-│   └─ healthCheck.js
-└─ main.js
+TEST-K6/
+├─ config/        # Configuraciones de carga
+├─ endpoints/     # URLs de la API
+├─ utils/         # Funciones de validación reutilizables
+├─ scenarios/     # Flujos de prueba independientes
+└─ main.js        # Orquesta la ejecución de escenarios
+
 ```
 
 # Descripción de carpetas y archivos
