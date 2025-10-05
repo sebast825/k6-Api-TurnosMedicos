@@ -1,3 +1,4 @@
+```bash
 k6-tests/
 ├─ config/
 │   └─ options.js
@@ -9,6 +10,7 @@ k6-tests/
 │   ├─ getTurnosDisponibles.js
 │   └─ healthCheck.js
 └─ main.js
+```
 
 # Descripción de carpetas y archivos
 
