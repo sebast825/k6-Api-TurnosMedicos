@@ -1,4 +1,4 @@
-import { healthCheckOptions } from "./healthCheckIOptions";
+import { healthCheckOptions } from "./healthCheckIOptions.js";
 import { loadOptions } from "./loadOptions.js";
 import { spikeOptions } from "./spikeOptions.js";
 import { stressOptions } from "./stressOptions.js";
