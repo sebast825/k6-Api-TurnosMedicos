@@ -64,3 +64,13 @@ Orquesta la ejecución de los distintos escenarios:
 ```bash
 brew install k6       # MacOS
 choco install k6      # Windows
+
+```
+
+## Usar k6
+
+```bash
+k6 run main.js
+```
+
+
