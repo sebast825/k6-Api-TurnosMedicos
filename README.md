@@ -1,4 +1,4 @@
-```bash
+```
 k6-tests/
 ├─ config/
 │   └─ options.js
